@@ -1,0 +1,4 @@
+x="beautiful"
+def myfunc():
+    print('she is' + x)
+myfunc()
